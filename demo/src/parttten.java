@@ -5,7 +5,7 @@ public class parttten {
             for(int j=1;j<=num;j++){
                 System.out.print(i+""+j+" ");
             }
-            System.out.println();
+            System.out.println();///PRINT IN ANOTHER LINE
         }
     }
 }
